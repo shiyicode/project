@@ -1,0 +1,1 @@
+/usr/local/mysql-5.7.12-osx10.11-x86_64/bin/mysqldump -uroot -pshiyi -h 127.0.0.1 --skip-extended-insert --no-create-info d2 > /Users/shiyi/temp.sql

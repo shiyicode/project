@@ -1,0 +1,1 @@
+/Users/shiyi/IdeaProjects/AreaTool\tool\mysqldump.exe -uroot -pjinse -P 3366 -h 115.231.222.19 --no-create-info 2 > temp.sql/Users/shiyi/IdeaProjects/AreaTool\tool\mysqldump.exe -uroot -pjinse -P 3366 -h 115.231.222.19 --no-create-info 2 > temp.sql

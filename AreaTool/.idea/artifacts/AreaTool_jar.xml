@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact name="AreaTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AreaTool_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AreaTool.jar">
+        <element id="module-output" name="AreaTool" />
+      </element>
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="mysql-connector-java-5.1.38-bin" />
+        <element id="file-copy" path="$PROJECT_DIR$/database/mysqldump.exe" />
+      </element>
+      <element id="directory" name="tool">
+        <element id="file-copy" path="$PROJECT_DIR$/database/mysqldump.exe" />
+        <element id="file-copy" path="$PROJECT_DIR$/database/mysql.exe" />
+      </element>
+    </root>
+  </artifact>
+</component>

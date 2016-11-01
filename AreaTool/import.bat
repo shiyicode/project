@@ -1,0 +1,1 @@
+/Users/shiyi/IdeaProjects/AreaTool\tool\mysql.exe -f -uroot -pjinse -P 3366 -h 115.231.222.19 1 < temp.sql/Users/shiyi/IdeaProjects/AreaTool\tool\mysql.exe -f -uroot -pjinse -P 3366 -h 115.231.222.19 1 < temp.sql
