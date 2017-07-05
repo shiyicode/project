@@ -1,0 +1,24 @@
+#ifndef SNAKE_H
+#define SNAKE_H
+
+class Board;
+
+class Snake
+{
+public:
+    int len;//蛇的长度
+    int s[10000][2];//保存蛇身
+    int dx, dy;//蛇当前方向
+    Board *board;
+
+    Snake(Board *);
+    void eat();//吃食
+    int detect();//碰撞检测
+    void toNext();//前往当前方向下一步
+    void turnUp();//蛇转向
+    void turnDown();
+    void turnLeft();
+    void turnRight();
+};
+
+#endif // SNAKE_H

@@ -1,0 +1,33 @@
+<Solution>
+  <PropertyGroup Name="planeGame" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Texture">
+          <Image Name="backDlg.png" />
+          <Image Name="BigEnemy1.png" />
+          <Image Name="BigEnemy2.png" />
+          <Image Name="bullet1.png" />
+          <Image Name="bullet2.png" />
+          <Image Name="Exit.png" />
+          <Image Name="Exit_down.png" />
+          <Image Name="Hero1.png" />
+          <Image Name="Hero2.png" />
+          <Image Name="life_words.png" />
+          <Image Name="lifeBar.png" />
+          <Image Name="number.png" />
+          <Image Name="Restart.png" />
+          <Image Name="Restart_down.png" />
+          <Image Name="score_words.png" />
+          <Image Name="SmallEnemy1.png" />
+          <Image Name="SmallEnemy2.png" />
+        </Folder>
+        <Project Name="BigEnemyNode.csd" Type="Node" />
+        <Project Name="HeroNode.csd" Type="Node" />
+        <Project Name="Layer.csd" Type="Layer" />
+        <Project Name="SmallEnemyNode.csd" Type="Node" />
+        <Project Name="HUD.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
